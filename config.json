@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedtringify",
+        "uuid": 5376151,
+        "checksum": "wqbnbv"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
